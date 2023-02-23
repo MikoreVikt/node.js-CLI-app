@@ -1,1 +1,1 @@
-# node.js-hw-1-CLI-app
+# node.js-CLI-app
